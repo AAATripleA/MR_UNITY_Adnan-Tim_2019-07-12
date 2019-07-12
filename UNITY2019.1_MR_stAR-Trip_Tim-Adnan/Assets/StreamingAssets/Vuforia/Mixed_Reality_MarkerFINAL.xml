@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="MR_A1_MARKER-FINAL-Vuforia_Galaxy" size="0.840990 0.594019" />
+    <ImageTarget name="MR_MarkerFINAL_A4_8" size="0.209970 0.297006" />
+    <ImageTarget name="MR_MarkerFINAL_A4_7" size="0.209970 0.297006" />
+    <ImageTarget name="MR_MarkerFINAL_A4_6" size="0.209970 0.297006" />
+    <ImageTarget name="MR_MarkerFINAL_A4_5" size="0.209970 0.297006" />
+    <ImageTarget name="MR_MarkerFINAL_A4_4" size="0.209970 0.297006" />
+    <ImageTarget name="MR_MarkerFINAL_A4_3" size="0.209970 0.297006" />
+    <ImageTarget name="MR_MarkerFINAL_A4_2" size="0.209970 0.297006" />
+    <ImageTarget name="MR_MarkerFINAL_A4_1" size="0.209970 0.297006" />
+  </Tracking>
+</QCARConfig>

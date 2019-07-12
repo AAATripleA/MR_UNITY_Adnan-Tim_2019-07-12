@@ -1,0 +1,20 @@
+HAW Hamburg | DMI | MR SoSe19
+######################################
+StAR Trip - HowTo
+######################################
+
+1. App starten
+2. Level 1 auswählen
+3. Smartphone in HMD einsetzen
+4. Vor dem aufsetzen der HMD kurz auf “Restart” drücken
+5. Kopfhörer aufsetzen
+6. Spielen
+
+Spielinfos:
+
+1. Asteroiden ausweichen mit dem Kopf
+2. Rote Kristalle einsammeln mit dem Kopf
+3. Das spiel ist beendet, wenn man 3 mal getroffen wurde (Game Over) oder bis zum Ende des Musikstücks überlebt hat (Win)
+4. Um es erneut zu spielen auf “Restart” tippen oder wieder Level 1 auswählen.
+
+WICHTIG: Level 2 kann man auswählen, aber ist eine leere “Test-Szene”.
